@@ -1,5 +1,5 @@
 # Makefile Python Template
-A template you can use for your python projects to make them cross-platform using make.
+A template you can use for your python projects to enable cross-platform compatibilty using `make`.
 
 ## Details
 There are different sub commands you can run using this template. the default is just `make`
